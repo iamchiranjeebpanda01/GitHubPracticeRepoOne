@@ -7,4 +7,4 @@ jobs:
             - name: Get Event details
               run: |
                      echo ${{ toJSON(github.event) }}
-              shell: bash
+              shell: /bin/bash
