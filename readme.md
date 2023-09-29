@@ -1,6 +1,6 @@
 # GitHubPracticeRepoOne
 
-Welcome to GitHubPracticeRepoOne, a repository that showcases my practiced version of GitHub Actions in conjunction with the course "GitHub Actions - The Complete Actions" from Udemy.
+Welcome to GitHubPracticeRepoOne, a repository that showcases my practiced version of GitHub Actions in conjunction with the course "GitHub Actions - The Complete Guide" from Udemy.
 
 ## Workflows
 
