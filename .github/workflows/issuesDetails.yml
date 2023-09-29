@@ -4,9 +4,8 @@ jobs:
     info:
         runs-on: ubuntu-latest
         steps:
-            # - name: Get Event details
-            #   run: |
-            #          echo ${{ toJSON(github.event) }}
-            #   shell: /bin/bash
             - name: Get Event details
-              run: printenv
+              run: |
+                     echo ${{ github.event }}
+              
+           
